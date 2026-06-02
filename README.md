@@ -35,7 +35,7 @@ streamlit run app.py
 
 ### Analysis Result
 
-![Analysis Result](screenshots/analysis-result.png)
+![Analysis Result](screenshots/result.png)
 
 ## Author
 
